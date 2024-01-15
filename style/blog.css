@@ -1,0 +1,35 @@
+
+.header{
+
+    height: 400px;
+    background-image: url('R.jpeg');
+    background-size:contain;
+}
+h3{
+    font-size: 50px;
+  
+    margin-top: 10px;
+    text-decoration:overline;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+    
+}
+
+.blog{
+    margin: 40px;
+    border: 20px solid tomato;
+    box-shadow: 10px 10px 20px green;
+}
+.maxime{
+    border: 1px solid rgb(187, 1, 1);
+}
+li{
+  display:inline-block;
+
+}
+.dolor{
+    border: 2px  solid green;
+    display: inline-block;
+    height: 25px;
+}
